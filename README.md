@@ -2,8 +2,6 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 📫 How to reach me :e-mail:fangahungxu@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 - 💞️I like python and c++.
 <!---
 fanghuangxu/fanghuangxu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,3 +28,5 @@ __三角洲行动（Delta Force）__
 
 # 其他
   我就喜欢用 __Ubuntu__（或 __windows subsystem for linux__(__WSL__)） 和 __Windows__,当然我也喜欢 __macOS__ 的开发体验（毕竟它可以使用`xcode-select --install`）
+  
+  我是 __小孩__ ，所以写的肯定比不过 __大人__

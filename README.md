@@ -9,7 +9,7 @@ e-mail:__fanghuangxu@163.com__,__3760685393@qq.com__(不常用)
 
 # 个人信息
 
-名字：方黄旭
+名字：方*旭
 
 网名：fanghuangux（别问我为啥是这个，因为我老是把 fanghuangxu 打反）、Dreamful（我也是一个有梦想的人）
 

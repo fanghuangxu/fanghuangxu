@@ -1,34 +1,39 @@
 [English](README_en.md)
 
-# 联系方式
+**微信**: `Fhx20121228`  
+**QQ**: `3760685393`  
+**电子邮件**:  
+- 主要: `fanghuangxu@163.com`  
+- 次要: `3760685393@qq.com` *(不常用)*  
 
-WeChat:__Fhx20121228__
-
-QQ:__3760685393__
-
-e-mail:__fanghuangxu@163.com__,__3760685393@qq.com__(不常用)
 
 
 # 个人信息
 
-名字：方*旭
+**姓名**: 方 *旭 *(部分隐藏)*  
+**网名**:  
+- `fanghuangux` *(别问我为啥是这个，因为我老是把 fanghuangxu 打反)*  
+- `Dreamful` *(我也是一个有梦想的人)*
+**出生年月**: 2012年12月
 
-网名：fanghuangux（别问我为啥是这个，因为我老是把 fanghuangxu 打反）、Dreamful（我也是一个有梦想的人）
 
-出生年月：2012年12月
-# 我的兴趣/技术栈
+# 技能/兴趣
 
-__Python 应用开发__
+## 开发
+- **Python 应用开发**  
+- **操作系统开发** *(在研究)*  
+- **WEB 后端开发** *(前端？让 AI 来处理吧 😉)*  
 
-__操作系统开发（研究）__
+## 游戏
+- **Minecraft 玩家**  
+- **三角洲行动** *(FPS 游戏)*  
 
-__WEB 后端搭建（前端 AI 来🤭）__
+# 其他说明
 
-__Minecraft玩家__
+## 偏好的开发环境
+- **Ubuntu** / **WSL** *(Windows 子系统 for Linux)*  
+- **Windows**  
+- **macOS** *(开发体验很重要 - `xcode-select --install` 很方便)*  
 
-__三角洲行动（Delta Force）__
-
-# 其他
-  我就喜欢用 __Ubuntu__（或 __windows subsystem for linux__(__WSL__)） 和 __Windows__,当然我也喜欢 __macOS__ 的开发体验（毕竟它可以使用`xcode-select --install`）
-  
-  我是 __小孩__ ，所以写的肯定比不过 __大人__
+## 个人备注
+> *"我还是一个年轻的开发者，所以我的代码可能没有成年专业人员的那么精炼。"*

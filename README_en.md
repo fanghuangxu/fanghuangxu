@@ -1,3 +1,4 @@
+[中文](README.md)
 # Contact Information
 
 **WeChat**: `Fhx20121228`  
